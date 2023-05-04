@@ -1,0 +1,4 @@
+[submodule "TRESCLOUD/encrypted_localization_16"]
+	path = TRESCLOUD/encrypted_localization_16
+	url = git@github.com:TRESCLOUD/encrypted_localization_16.git
+	branch = 16.0
