@@ -2,3 +2,8 @@
 	path = TRESCLOUD/encrypted_localization_16
 	url = git@github.com:TRESCLOUD/encrypted_localization_16.git
 	branch = 16.0
+
+[submodule "TRESCLOUD/account-analytic"]
+	path = TRESCLOUD/account-analytic
+	url = git@github.com:TRESCLOUD/account-analytic.git
+	branch = 16.0
